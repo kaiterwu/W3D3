@@ -22,4 +22,5 @@ def fib_rec (n)
 
     fib_var =  fib(n-1) 
     fib_var << fib_var[-1] + fib_var[-2] 
+
 end
